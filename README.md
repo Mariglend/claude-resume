@@ -49,7 +49,7 @@ That's it. `claude-resume` handles the rest.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-resume.git
+git clone https://github.com/Mariglend/claude-resume.git
 cd claude-resume
 chmod +x claude_resume.sh
 ```
